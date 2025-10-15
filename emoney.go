@@ -1,4 +1,4 @@
-// TUGAS BESAR ALPRO
+// TUGAS BESAR ALPRO Semester 2
 package main
 
 import (
